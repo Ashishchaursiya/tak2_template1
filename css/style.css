@@ -2,6 +2,7 @@
     height: 100%;
     width: 100%;
      text-transform: capitalize;
+  scroll-behavior: smooth;
  }
 #home{
     background-color:#333333;
